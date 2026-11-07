@@ -37,7 +37,7 @@ other times, it's just seeing how far i can push something.
 
 ### wasm.rip
 
-i'm part of **wasm.rip**, where i work on bringing games and other projects to the web.
+I used to own "wasm.rip" and i am now 'retired' from it. Hopefully I can get back into it as a porter.
 
 the basic idea is taking software that wasn't designed for browsers and figuring out how to make it work there, without completely changing what made it interesting in the first place.
 
